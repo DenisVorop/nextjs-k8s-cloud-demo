@@ -210,3 +210,9 @@ watch -n 0.5 curl http://localhost:<NodePort>
 ```bash
 hey -z 60s -q 10 http://localhost:<NodePort>
 ```
+
+---------
+
+<img width="1728" alt="Снимок экрана 2025-04-08 в 19 01 24" src="https://github.com/user-attachments/assets/6f0a15a8-4cca-45dc-983e-46c21cdec6d2" />
+<img width="1728" alt="Снимок экрана 2025-04-08 в 19 01 02" src="https://github.com/user-attachments/assets/313e4468-81e4-4c3e-8bbb-6712d4b0321c" />
+
